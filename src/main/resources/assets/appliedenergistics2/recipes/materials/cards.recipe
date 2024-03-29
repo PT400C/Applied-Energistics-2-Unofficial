@@ -23,6 +23,10 @@ shapeless=
     -> ae2:ItemMaterial.CardFuzzy
 
 shapeless=
+    ae2:ItemMaterial.AdvCard mc:redstone_torch mc:book
+    -> ae2:ItemMaterial.CardOreFilter
+
+shapeless=
     ae2:ItemMaterial.AdvCard mc:redstone_torch
     -> ae2:ItemMaterial.CardInverter
 
